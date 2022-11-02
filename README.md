@@ -30,6 +30,5 @@
 </a>
 <a href="https://steamcommunity.com/id/when_real/">
 <img src="https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=192939">
-</a><br><br><br>
-This is Real?#8993
+</a>
 </p>
