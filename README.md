@@ -1,6 +1,6 @@
 <h4 align="center">📕 Programming Languages 📕</h4>
 <p align="center">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=621fe5&logo=CSHARP&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-C%23-621fe5?style=for-the-badge&logo=csharp&logoColor=ffffff">
 </p>
 <h4 align="center">🛠 Tools 🛠</h4>
 <p align="center">
@@ -31,5 +31,5 @@
 <a href="https://steamcommunity.com/id/when_real/">
 <img src="https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=192939">
 </a><br><br><br>
-This is Real?#8993
+**This is Real?#8993**
 </p>
