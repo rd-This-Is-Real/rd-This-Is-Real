@@ -23,7 +23,7 @@
 </p>
 <h1 align="center">🗂 Projects 🗂</h1>
 <h2 align="center">💀 No Public 💀</h2>
-<h1 align="center">📱 Contact Data 📱</h1>
+<h1 align="center">📱 Links 📱</h1>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCTo0nfHMd9vO9gpsCUZlxRQ">
 <img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000">
